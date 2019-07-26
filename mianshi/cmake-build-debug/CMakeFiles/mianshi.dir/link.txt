@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/mianshi.dir/first_strenth.cpp.o  -o mianshi 
